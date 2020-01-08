@@ -49,7 +49,7 @@ A command line application that takes user inputs to generate a PDF document dis
 
 ## User Experience
 
-![Gif](https://i.imgur.com/vlQQYfF.mp4)
+![Gif](github-pdf-demo.gif)
 
 ## Developer Experience
 
