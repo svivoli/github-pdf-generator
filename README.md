@@ -44,8 +44,8 @@ A command line application that takes user inputs to generate a PDF document dis
 
 ## Links to Project
 
-![Live Link](https://svivoli.github.io/github-pdf-generator/)  
-![Repository](https://github.com/svivoli/github-pdf-generator)
+[Live Link](https://svivoli.github.io/github-pdf-generator/)  
+[Repository](https://github.com/svivoli/github-pdf-generator)
 
 ## User Experience
 
