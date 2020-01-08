@@ -133,6 +133,7 @@ function generateHTML(data, res, stars) {
          margin-top: 10px;
          }
          .container {
+         background-color: white;
          padding: 50px;
          padding-left: 100px;
          padding-right: 100px;
