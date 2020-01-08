@@ -3,7 +3,8 @@
 ## Instructions
 
 1. With terminal pointing toward the project's directory, enter the following command:
-```node index.js
+```sh
+node index.js
 ```
 2. Answer the 2 prompts ("What is your GitHub username?" & "Pick a color for your profile PDF.").
 3. Wait patiently while the profile.html and Profile.pdf files are generated.
