@@ -1,9 +1,5 @@
 # Github-PDF-Generator
 
-## Links to Project
-
-[Repository](https://github.com/svivoli/github-pdf-generator)
-
 ## Instructions
 
 1. With terminal pointing toward the project's directory, enter the following command:
