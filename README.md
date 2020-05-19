@@ -12,6 +12,11 @@ node index.js
 5. Share and enjoy!
 * Running the command a second time will replace the originally created files, so save to a new location or rename before running again.
 
+## Links to Project
+
+[Live Link](https://svivoli.github.io/github-pdf-generator/)  
+[Repository](https://github.com/svivoli/github-pdf-generator)
+
 ## Description
 
 A command line application that takes user inputs to generate a PDF document displaying a summary of the user's GitHub profile details. This is a useful for preparing reports for stakeholders, or a concise supplement for resumes and portfolios.
@@ -42,11 +47,6 @@ A command line application that takes user inputs to generate a PDF document dis
 4. Color theme depening on color selected by user
 5. Bootstrap grid
 * Any GitHub information that is blank on a user's profile will appear as "null" on the PDF
-
-## Links to Project
-
-[Live Link](https://svivoli.github.io/github-pdf-generator/)  
-[Repository](https://github.com/svivoli/github-pdf-generator)
 
 ## User Experience
 
